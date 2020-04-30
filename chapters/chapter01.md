@@ -12,3 +12,18 @@ function InitTrig_Hello_world takes nothing returns nothing
   call DisplayTextToForce( GetPlayersAll(), "Hello world")
 endfunction
 ```
+
+If you try the same in lua you will notice that doesn't work.  
+You will have to make a trigger call your code.  
+
+![creating the action "custom script" calling "hello()"](img/chapter01-000.png)  
+
+![after creating](img/chapter01-001.png)  
+
+```lua
+function hello()
+  DisplayTextToForce(GetPlayersAll(), "classic hello world")
+
+  print("new hello world")
+end
+```
