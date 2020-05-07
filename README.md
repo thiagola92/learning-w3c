@@ -1,2 +1,2 @@
-# learning-w3c
-Learning to use W3C Map Editor
+# learning-wc3
+Learning to use WC3 Map Editor
