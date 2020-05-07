@@ -1,7 +1,7 @@
 # API
 * I wanted to code using Lua but unfortunally:
   * I have no previous knowledge about the existing functions.
-  * W3C Map editor gives me no option to convert triggers to Lua code.
+  * WC3 Map editor gives me no option to convert triggers to Lua code.
   * Blizzard doesn't provide an API for the functions.
 
 Thanks for the community there is forums and github with informations that can help to understand wc3 api.  
